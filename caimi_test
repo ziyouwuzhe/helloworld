@@ -1,0 +1,6 @@
+你好世界  我在做io测试！！你好世界  我在做io测试sdsdsdsd！！
+num, err := file.WriteString("你好世界  我在做io测试！！")num, err := file.WriteString("你好世界  我在做io测试！！")
+num, err := file.WriteString("你好世界  我在做io测试！！")
+num, err := file.WriteString("你好世界  我在做io测试！！")num, err := file.WriteString("你好世界  我在做io测试！！")
+num, err := file.WriteString("你好世界  我在做io测试！！")num, err := file.WriteString("你好世界  我在做io测试！！")num, err := file.WriteString("你好世界  我在做io测试！！")
+num, err := file.WriteString("你好世界  我在做io测试！！")
